@@ -1,7 +1,7 @@
 # vortex-simulator
 This a personal project that is to simulate a proper vortex in a certain condition of volume of water. An addition to this would be to create a water-sprout as well. This will be done using vscode and blender. A physical model will be completed when digital version is done. This will be introduced later with a material, design, and cost analysis. \
 \
-A final version of the product will be presented in a game engine running on html, JS, and CSS. \
+A final version of the product will be presented in a game engine running on html, JS, and CSS. 
 
 The language the code will be written in is undecided as of now. I will experiment with java, JS, and python and see which one is best fit for the practicality of this program.
 
