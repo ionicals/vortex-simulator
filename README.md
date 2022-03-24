@@ -8,7 +8,7 @@ The language the code will be written in python3.
 # Resources:
 https://code.blender.org/ \
 https://b3d.interplanety.org/en/using-microsoft-visual-studio-code-as-external-ide-for-writing-blender-scripts-add-ons/ \
-https://code.visualstudio.com/docs/?dv=osx
+https://code.visualstudio.com/docs/?dv=osx \
 https://www.calqlata.com/productpages/00093-help.html
 
 
