@@ -9,6 +9,9 @@ The language the code will be written in python3.
 https://code.blender.org/ \
 https://b3d.interplanety.org/en/using-microsoft-visual-studio-code-as-external-ide-for-writing-blender-scripts-add-ons/ \
 https://code.visualstudio.com/docs/?dv=osx
+https://www.calqlata.com/productpages/00093-help.html
+
+
 # Data Analysis:
 I will probably use a software to analyze the data acquired from the simulation and display it as an html webpage with python that the user can work with and graph data points. This data points will allow the user to work with further calculations involving fluid dynamics/mechanics. \
 Data Values: \
