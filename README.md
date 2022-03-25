@@ -3,7 +3,7 @@ This a personal project that is to simulate a proper vortex in a certain conditi
 \
 A final version of the product will be presented in a game engine running on python3.
 
-The language the code will be written in python3. \
+The language the code will be written in python3. 
 
 Source Code in master branch.
 
