@@ -2,3 +2,4 @@ command lines:
 * exit: exit out of terminal
 * clear: clear the terminal
 * ctrl r & u: run terminal
+* to push code to github, commit via checkmark in SC and then push to the github repo
